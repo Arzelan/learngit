@@ -7,3 +7,4 @@ Creating a new branch is quick & simple.
 =======
 Creating a new branch is quick AND simple.
 >>>>>>> feature1
+测试禁用快速合并。合并后带有备注
